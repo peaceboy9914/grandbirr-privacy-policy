@@ -151,9 +151,7 @@ Depending on your jurisdiction, you may have some or all of the following rights
 You can exercise some of these rights directly in the App (for example, by editing your profile or deleting your account), or by contacting us at **mahdinurazaman@gmail.com**.
 
 For information on how to request account and data deletion, please see our **Account & Data Deletion** page:  
-`https://YOUR-USERNAME.github.io/grandbirr-business-deletion/`
-
-(Replace this URL with your actual published deletion page link.)
+`https://peaceboy9914.github.io/grandbirr-business-deletion/`
 
 ---
 
